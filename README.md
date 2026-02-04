@@ -113,8 +113,6 @@ Producing novel and diverse outputs
 Supporting creativity and automation
 
 4. Types of Generative AI Models
-   ![Uploading ChatGPT Image Feb 4, 2026, 01_28_07 PM.png…]()
-
 
 Several generative modeling approaches have been developed:
 
